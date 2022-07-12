@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Demo DatabaseCRUD</string>
+    <string name="content">Content</string>
+    <string name="id">ID</string>
+    <string name="update">update</string>
+    <string name="delete">delete</string>
+</resources>
